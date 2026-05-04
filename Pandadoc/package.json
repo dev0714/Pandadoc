@@ -6,6 +6,7 @@
     ".": "./src/index.ts"
   },
   "scripts": {
-    "test": "node --experimental-strip-types src/pandadoc.test.ts"
+    "test": "node --experimental-strip-types src/pandadoc.test.ts",
+    "auth-check": "python python/pandadoc_auth_check.py"
   }
 }
