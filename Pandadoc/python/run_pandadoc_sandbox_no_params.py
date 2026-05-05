@@ -12,7 +12,7 @@ RECIPIENT_EMAIL = "Sudeer.joseph1@gmail.com"
 RECIPIENT_ROLE = "Client"
 CLIENT_FIRST_NAME = "Andre"
 CLIENT_LAST_NAME = "Dharmalingam"
-DOCUMENT_NAME = "Sandbox Signing Test"
+DOCUMENT_NAME = "Erasedebt POA"
 
 
 def main() -> int:
